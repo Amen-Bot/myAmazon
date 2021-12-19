@@ -1,0 +1,8 @@
+# autoregenerated files
+
+dist/
+.vscode/
+.DS_Store
+
+# files from installation directory
+node_modules/
