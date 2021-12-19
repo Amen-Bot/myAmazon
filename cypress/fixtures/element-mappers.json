@@ -1,0 +1,12 @@
+{
+    "helloAmenButton": "span#nav-link-accountList-nav-line-1",
+    "signInButton": "div#nav-flyout-ya-signin  .nav-action-inner",
+    "email": "input#ap_email",
+    "continueButton": "input#continue",
+    "cookiesButton": "amzn-btn btn-prim-med-la",
+    "accountButton": "div#nav-al-your-account > a:nth-of-type(1) > .nav-text",
+    "yourOrdersButton": "div:nth-of-type(2) > div:nth-of-type(1) > .ya-card__whole-card-link > .a-box.ya-card--rich .a-spacing-none.a-text-normal.ya-card__heading--rich",
+    "password": "input#ap_password"
+    
+   
+}
